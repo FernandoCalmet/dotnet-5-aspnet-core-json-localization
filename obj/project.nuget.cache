@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1U6Cwp/OLLTHG18bPlnBBTXiuKvsxFc/yF4/7DMbU8s2fp8rNIliZWJ1AtnokJMz8FCzw8pu+P/htZ+v9E6G9Q==",
+  "dgSpecHash": "DRff+yiapGDHIrKtmbedN7oNXaSxxLzpg/WkLLogLVklJr4QyA0M0fP44s9qY9aj/MHg8NgbjleF5UcW2ZPZpQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-JSON-Localization\\WebApplication.JSON-Localization\\WebApplication.JSON-Localization.csproj",
+  "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-JSON-Localization\\WebApplication.JSON-Localization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
