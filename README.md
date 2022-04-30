@@ -21,7 +21,7 @@ Este proyecto es una muestra de una aplicación API que permite capturar la loca
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-JSON-Localization
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-json-localization
 ```
 
 Ejecutar aplicación.
